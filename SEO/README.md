@@ -13,7 +13,8 @@ Baseline Optimization forms the cornerstone of effective Technical SEO. It encom
 
 ### 1. Page Title Tags
 
-Page titles play a vital role in SEO. They should be concise (typically 50–60 characters, including spaces) and accurately represent the content of each page. Implementing dedicated CMS items for Title tags in CMS page templates can streamline this process.
+- Keep them concise (typically 50–60 characters, including spaces | Desktop = ~560px).
+- Make sure to add and implement dedicated CMS items for Title tags in CMS page templates.
 
 ```markdown
 <!-- Example Page Title Tag -->
