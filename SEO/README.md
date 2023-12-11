@@ -55,3 +55,28 @@ Prevent duplicate content issues by using the no-index meta tag where necessary.
 <meta name="robots" content="noindex, follow">
 ```
 <br>
+
+
+### 6. Global Canonical Tag URL
+
+Set the global canonical tag URL to specify the default live site URL. This instructs search engines about the preferred version of a page when multiple versions exist.
+
+```markdown
+<!-- Canonical Tag Example -->
+<link rel="canonical" href="https://example.com/page">
+```
+<br>
+
+
+### 7. Sitemap Generation
+
+Enable the auto-generation of a sitemap.xml file. This file lists all the important pages of your website, making it easier for search engines to discover and index content.
+
+```markdown
+User-agent: *
+Sitemap: https://example.com/sitemap.xml
+```
+<div style="color: #E3B774;  font-size: 80%;">
+    Add this code to the robots.txt section<br>
+    Update the origin of the sitemap URL to the default domain set on Webflow
+</div>
