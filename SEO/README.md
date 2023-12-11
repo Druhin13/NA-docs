@@ -106,25 +106,6 @@ Maintain a semantic heading/header structure by assigning header tags (h1, h2, h
   </tr>
 </table>
 
-
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; width: 70%">
-    <div style="flex: 1; width: 50%;">
-        <img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%201.png" alt="Image 1" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 50%;">
-        <img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%202.png" alt="Image 2" style="width: 100%;">
-    </div>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 70%">
-    <div style="flex: 1; width: 50%;">
-        <img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%203.png" alt="Image 3" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 50%;">
-        <img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%204.png" alt="Image 4" style="width: 100%;">
-    </div>
-</div> -->
-
-
 ---
 
 
