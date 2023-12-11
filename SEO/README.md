@@ -23,7 +23,7 @@ Page titles play a vital role in SEO. They should be concise (typically 50–60 
 
 ### 2. Page Descriptions
 
-Page descriptions offer a brief summary of a page's content. Craft informative and engaging descriptions (50–160 characters, or up to 300 characters, including spaces). Consider using dedicated CMS items for Description tags in CMS page templates.
+Page descriptions offer a brief summary of a page's content. Craft informative and engaging descriptions (50–160 characters, or up to 325 characters, including spaces). Consider using dedicated CMS items for Description tags in CMS page templates.
 
 ```markdown
 <!-- Example Page Description Tag -->
@@ -90,14 +90,22 @@ Sitemap: https://example.com/sitemap.xml
 
 ### 8. Semantic Heading Structure
 
-Maintain a semantic heading/header structure by assigning header tags (h1, h2, h3, etc.) based on their logical hierarchy and content relationships. Ensure that each page has only one h1 tag, and sub-header tags (h2, h3, etc.) follow a hierarchical structure.
+Maintain a semantic heading/header structure by assigning header tags (h1, h2, h3, etc.) based on their logical hierarchy & content relationships, and not based on their styling (e.g: font size). Ensure that each page has **only one h1** tag, and sub-header tags (h2, h3, etc.) follow a hierarchical structure.
 
-```markdown
-<!-- Example of Semantic Heading Structure -->
-<h1>Main Heading</h1>
-<h2>Subheading 1</h2>
-<h3>Sub-subheading 1.1</h3>
-```
+
+
+<table>
+  <tr>
+    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%201.png" alt="Image 1" width="325" height="325"></td>
+    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%202.png" alt="Image 2" width="325" height="325"></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%203.png" alt="Image 3" width="325" height="325"></td>
+    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%204.png" alt="Image 4" width="325" height="325"></td>
+  </tr>
+</table>
+
 ---
 
 
