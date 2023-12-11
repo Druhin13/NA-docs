@@ -13,7 +13,7 @@ Baseline Optimization forms the cornerstone of effective Technical SEO. It encom
 
 ### 1. Page Title Tags
 
-- Keep them concise (typically 50–60 characters, including spaces | Desktop = ~560px).
+- Keep them concise & meaningful | Follow the character limit (typically 50–60 characters, including spaces | Desktop = ~560px).
 - Make sure to add and implement dedicated CMS items for Title tags in CMS page templates.
 
 ```markdown
@@ -24,7 +24,8 @@ Baseline Optimization forms the cornerstone of effective Technical SEO. It encom
 
 ### 2. Page Descriptions
 
-Page descriptions offer a brief summary of a page's content. Craft informative and engaging descriptions (50–160 characters, or up to 325 characters, including spaces). Consider using dedicated CMS items for Description tags in CMS page templates.
+- Follow the character limit (50–160 characters, or up to 325 characters, including spaces).
+- Make sure to add and implement dedicated CMS items for Title tags in CMS page templates.
 
 ```markdown
 <!-- Example Page Description Tag -->
