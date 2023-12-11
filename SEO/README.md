@@ -1,13 +1,12 @@
+
 # Technical SEO
 
-<br>
+
 
 ## Baseline Optimization
 
 Baseline Optimization forms the cornerstone of effective Technical SEO. It encompasses fundamental practices and settings that lay a strong foundation for enhancing your website's visibility in search engine results. In this section, we'll delve into the key components of Baseline Optimization.
 
-
-<br>
 
 ---
 
@@ -82,10 +81,7 @@ Enable the auto-generation of a sitemap.xml file. This file lists all the import
 User-agent: *
 Sitemap: https://example.com/sitemap.xml
 ```
-<div style="color: #E3B774;  font-size: 80%;">
-    Add this code to the robots.txt section<br>
-    Update the origin of the sitemap URL to the default domain set on Webflow
-</div>
+##### Add this code to the robots.txt section <br>Update the origin of the sitemap URL to the default domain set on Webflow
 
 ---
 
@@ -98,13 +94,12 @@ Maintain a semantic heading/header structure by assigning header tags (h1, h2, h
 
 <table>
   <tr>
-    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%201.png" alt="Image 1" width="325" height="325"></td>
-    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%202.png" alt="Image 2" width="325" height="325"></td>
+    <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c251fe5289755ff1003_heading%20structure%201.webp" alt="Image 1" width="325" height="325"></td>
+    <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c25f4cefa5e6eff4bfe_heading%20structure%202.webp" alt="Image 2" width="325" height="325"></td>
   </tr>
-
   <tr>
-    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%203.png" alt="Image 3" width="325" height="325"></td>
-    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%204.png" alt="Image 4" width="325" height="325"></td>
+    <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c2530759bf3c9a64b41_heading%20structure%203.webp" alt="Image 3" width="325" height="325"></td>
+    <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c255dbe2114c3caa222_heading%20structure%204.webp" alt="Image 4" width="325" height="325"></td>
   </tr>
 </table>
 
