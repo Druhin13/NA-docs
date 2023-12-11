@@ -93,7 +93,21 @@ Sitemap: https://example.com/sitemap.xml
 Maintain a semantic heading/header structure by assigning header tags (h1, h2, h3, etc.) based on their logical hierarchy & content relationships, and not based on their styling (e.g: font size). Ensure that each page has **only one h1** tag, and sub-header tags (h2, h3, etc.) follow a hierarchical structure.
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 70%">
+
+<table>
+  <tr>
+    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%201.png" alt="Image 1" width="325" height="325"></td>
+    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%202.png" alt="Image 2" width="325" height="325"></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%203.png" alt="Image 3" width="325" height="325"></td>
+    <td><img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%204.png" alt="Image 4" width="325" height="325"></td>
+  </tr>
+</table>
+
+
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; width: 70%">
     <div style="flex: 1; width: 50%;">
         <img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%201.png" alt="Image 1" style="width: 100%;">
     </div>
@@ -108,7 +122,7 @@ Maintain a semantic heading/header structure by assigning header tags (h1, h2, h
     <div style="flex: 1; width: 50%;">
         <img src="https://druh.in/NA-docs/SEO/assets/heading%20structure%204.png" alt="Image 4" style="width: 100%;">
     </div>
-</div>
+</div> -->
 
 
 ---
