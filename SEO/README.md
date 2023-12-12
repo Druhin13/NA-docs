@@ -10,7 +10,7 @@ Baseline Optimization forms the cornerstone of effective Technical SEO. It encom
 
 ---
 
-### 1. Page Title Tags
+### <input type="checkbox"/> 1. Page Title Tags 
 
 - Keep them concise & meaningful | Follow the character limit (typically 50–60 characters, including spaces | Desktop = ~560px).
 - Make sure to add and implement dedicated CMS items for Title tags in CMS page templates.
@@ -21,7 +21,7 @@ Baseline Optimization forms the cornerstone of effective Technical SEO. It encom
 ```
 ---
 
-### 2. Page Descriptions
+### <input type="checkbox"/> 2. Page Descriptions
 
 - Follow the character limit (50–160 characters, or up to 325 characters, including spaces).
 - Make sure to add and implement dedicated CMS items for Title tags in CMS page templates.
@@ -32,7 +32,7 @@ Baseline Optimization forms the cornerstone of effective Technical SEO. It encom
 ```
 ---
 
-### 3. OpenGraph Image
+### <input type="checkbox"/> 3. OpenGraph Image
 
 Enhance your website's social media presence by incorporating OpenGraph images. These images dictate how your pages appear when shared on platforms like Facebook and Twitter.
 
@@ -42,7 +42,7 @@ Enhance your website's social media presence by incorporating OpenGraph images. 
 ```
 ---
 
-### 4. URL Length
+### <input type="checkbox"/> 4. URL Length
 
 Keep your page URLs short, meaningful, and user-friendly. Ensure that auto-generated URLs for CMS page templates also adhere to these principles.
 
@@ -51,7 +51,7 @@ Example of a 'not so' well-structured URL: https://example.com/read-this-entire-
 
 ---
 
-### 5. Duplicate Content Avoidance
+### <input type="checkbox"/> 5. Duplicate Content Avoidance
 
 Prevent duplicate content issues by using the no-index meta tag where necessary. This helps avoid the indexing of similar or redundant pages.
 
@@ -62,7 +62,7 @@ Prevent duplicate content issues by using the no-index meta tag where necessary.
 ---
 
 
-### 6. Global Canonical Tag URL
+### <input type="checkbox"/> 6. Global Canonical Tag URL
 
 Set the global canonical tag URL to specify the default live site URL. This instructs search engines about the preferred version of a page when multiple versions exist.
 
@@ -73,7 +73,7 @@ Set the global canonical tag URL to specify the default live site URL. This inst
 ---
 
 
-### 7. Sitemap Generation
+### <input type="checkbox"/> 7. Sitemap Generation
 
 Enable the auto-generation of a sitemap.xml file. This file lists all the important pages of your website, making it easier for search engines to discover and index content.
 
@@ -86,7 +86,7 @@ Sitemap: https://example.com/sitemap.xml
 ---
 
 
-### 8. Semantic Heading Structure
+### <input type="checkbox"/> 8. Semantic Heading Structure
 
 Maintain a semantic heading/header structure by assigning header tags (h1, h2, h3, etc.) based on their logical hierarchy & content relationships, and not based on their styling (e.g: font size). Ensure that each page has **only one h1** tag, and sub-header tags (h2, h3, etc.) follow a hierarchical structure.
 
@@ -106,7 +106,7 @@ Maintain a semantic heading/header structure by assigning header tags (h1, h2, h
 ---
 
 
-### 9. Alt Tags for Images
+### <input type="checkbox"/> 9. Alt Tags for Images
 
 Add descriptive alt tags to images to provide context for visually impaired users and search engines. When images are purely decorative, set alt attributes accordingly to indicate their decorative nature.
 
