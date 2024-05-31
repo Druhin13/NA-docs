@@ -8,6 +8,8 @@ This documentation provides guidelines for designers and developers on the corre
 
 To avoid confusion and maintain consistency, it is essential to standardize how we name and use heading tags and text styles. Heading tags in HTML range from `h1` to `h6`. Occasionally, designers may name text styles as `h7` or `h8`, which do not exist in HTML. This can lead to confusion for developers. By adhering to the guidelines outlined here, we can ensure a seamless collaboration between design and development teams.
 
+<br>
+
 ## Guidelines for Designers
 
 When creating text styles on Figma, please use the following naming conventions:
@@ -35,6 +37,10 @@ The numeric order of text style names does not need to correspond to their font 
 ### Avoid Creating Variants
 
 Avoid creating variants of one text style. For instance, instead of naming styles as `h3` and `h3 v2`, create distinct text styles such as `title3` and `title4`.
+
+<br>
+
+
 
 ## Guidelines for Developers
 
@@ -70,3 +76,30 @@ The focus should be on the logical and semantic structure, which aids both scree
 <h2>Sub-heading 2</h2>
 <p>This is a paragraph under sub-heading 2.</p>
 ```
+
+<br>
+
+## Summary
+
+- **Designers:** Use flexible names like `title1`, `title2`, `para1`, etc. (or `copy1`, `copy2`), instead of `h1`, `h2`, `h3`.
+  - The numeric order of text style names does not need to correspond to their font sizes. For example, `title1` does not have to be the largest font size.
+  - Avoid creating variants of one text style. Instead of `h3` and `h3 v2`, use distinct names like `title3` and `title4`.
+- **Developers:** Ensure that each page has only one `h1` tag and maintain a proper hierarchical structure with heading tags (`h1`, `h2`, `h3`, etc.).
+- **Font Sizes:** Font sizes are not tied to heading tag levels; focus on the semantic meaning of each tag.
+- **Avoid Inconsistencies:** Refrain from naming text styles as `h7`, `h8`, etc., to prevent confusion.
+
+By following these guidelines, we can ensure our web pages are accessible, SEO-friendly, and maintain a logical structure. This standardization will facilitate effective and efficient collaboration between our design and development teams, leading to better project outcomes.
+
+
+<br>
+
+## What's Next
+
+I am currently working on developing a text style sheet frame for Figma. This frame will allow designers to add their text styles, including sizes, spacings, and other attributes. Once completed, developers will be able to export the entire frame to Webflow, enabling them to import all the text styles at once. This initiative aims to streamline our design-to-development workflow further and ensure consistency across all projects. Stay tuned for updates on this exciting development!
+
+---
+<br>
+
+**Written by Druhin from Not Another™.**
+<br>
+*Last updated on May 31.*
