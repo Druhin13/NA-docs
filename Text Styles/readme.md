@@ -6,7 +6,7 @@ This documentation provides guidelines for designers and developers on the corre
 
 ## Introduction
 
-To avoid confusion and maintain consistency, it is essential to standardize how we name and use heading tags and text styles. Heading tags in HTML range from `h1` to `h6`. Occasionally, designers may name text styles as `h7` or `h8`, which do not exist in HTML. This can lead to confusion for developers. By adhering to the guidelines outlined here, we can ensure a seamless collaboration between design and development teams.
+To avoid confusion and maintain consistency, it is essential to standardize how we name and use heading tags and text styles. Heading tags in HTML range from `h1` to `h6`. Occasionally, designers may name text styles as `h7` or `h8`, which do not exist in HTML. This can lead to confusion for developers. By adhering to the guidelines outlined here, we can ensure seamless collaboration between design and development teams.
 
 <br>
 
@@ -39,8 +39,6 @@ The numeric order of text style names does not need to correspond to their font 
 Avoid creating variants of one text style. For instance, instead of naming styles as `h3` and `h3 v2`, create distinct text styles such as `title3` and `title4`.
 
 <br>
-
-
 
 ## Guidelines for Developers
 
@@ -90,7 +88,6 @@ The focus should be on the logical and semantic structure, which aids both scree
 
 By following these guidelines, we can ensure our web pages are accessible, SEO-friendly, and maintain a logical structure. This standardization will facilitate effective and efficient collaboration between our design and development teams, improving project outcomes.
 
-
 <br>
 
 ## What's Next
@@ -98,8 +95,7 @@ By following these guidelines, we can ensure our web pages are accessible, SEO-f
 I am currently working on developing a text-style sheet frame for Figma. This frame will allow designers to add their text styles, including sizes, spacings, and other attributes. Once completed, developers can export the entire frame to Webflow, enabling them to import all the text styles at once. This initiative aims to streamline our design-to-development workflow further and ensure consistency across all projects. Stay tuned for updates on this exciting development!
 
 ---
-<br>
 
 **Written by Druhin from Not Another™.**
-<br>
-*Last updated on May 31.*
+
+*Last updated on 31st May 2024.*
