@@ -50,16 +50,18 @@ Ensuring a clear and logical structure using heading tags is crucial for accessi
 2. **Maintain Numeric Order:** Heading tags should follow a hierarchical structure. For instance, an `h2` should be a sub-heading of an `h1`, and an `h3` should be a sub-heading of an `h2`.
 3. **Avoid Skipping Levels:** Do not skip heading levels. For example, avoid directly jumping from `h1` to `h3`. The correct order is `h1` > `h2` > `h3`, etc.
 
-<table>
-  <tr>
-    <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c251fe5289755ff1003_heading%20structure%201.webp" alt="Image 1" width="325" height="325"></td>
-    <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c25f4cefa5e6eff4bfe_heading%20structure%202.webp" alt="Image 2" width="325" height="325"></td>
-  </tr>
-  <tr>
-    <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c2530759bf3c9a64b41_heading%20structure%203.webp" alt="Image 3" width="325" height="325"></td>
-    <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c255dbe2114c3caa222_heading%20structure%204.webp" alt="Image 4" width="325" height="325"></td>
-  </tr>
-</table>
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c251fe5289755ff1003_heading%20structure%201.webp" alt="Image 1" style="width:100%;"></td>
+      <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c25f4cefa5e6eff4bfe_heading%20structure%202.webp" alt="Image 2" style="width:100%;"></td>
+    </tr>
+    <tr>
+      <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c2530759bf3c9a64b41_heading%20structure%203.webp" alt="Image 3" style="width:100%;"></td>
+      <td><img src="https://uploads-ssl.webflow.com/65773a7a7404baa4f10c65bf/65773c255dbe2114c3caa222_heading%20structure%204.webp" alt="Image 4" style="width:100%;"></td>
+    </tr>
+  </table>
+</div>
 
 ### Font Size and Hierarchy
 
