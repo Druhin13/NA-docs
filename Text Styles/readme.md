@@ -32,7 +32,7 @@ Designers have the flexibility to use any naming convention for text styles they
 The numeric order of text style names does not need to correspond to their font sizes. For example:
 
 - `title1` does not have to be the largest font size.
-- `title6`, `title7`, `title8` do not have to be the smallest font sizes.
+- `title6`, `title7`, and `title8` do not have to be the smallest font sizes.
 
 ### Avoid Creating Variants
 
@@ -50,7 +50,7 @@ Ensuring a clear and logical structure using heading tags is crucial for accessi
 
 1. **Single `h1` Tag Per Page:** Each page should contain only one `h1` tag, representing the main heading.
 2. **Maintain Numeric Order:** Heading tags should follow a hierarchical structure. For instance, an `h2` should be a sub-heading of an `h1`, and an `h3` should be a sub-heading of an `h2`.
-3. **Avoid Skipping Levels:** Do not skip heading levels. For example, avoid jumping from `h1` directly to `h3`. The correct order is `h1` > `h2` > `h3`, etc.
+3. **Avoid Skipping Levels:** Do not skip heading levels. For example, avoid directly jumping from `h1` to `h3`. The correct order is `h1` > `h2` > `h3`, etc.
 
 ### Font Size and Hierarchy
 
@@ -88,14 +88,14 @@ The focus should be on the logical and semantic structure, which aids both scree
 - **Font Sizes:** Font sizes are not tied to heading tag levels; focus on the semantic meaning of each tag.
 - **Avoid Inconsistencies:** Refrain from naming text styles as `h7`, `h8`, etc., to prevent confusion.
 
-By following these guidelines, we can ensure our web pages are accessible, SEO-friendly, and maintain a logical structure. This standardization will facilitate effective and efficient collaboration between our design and development teams, leading to better project outcomes.
+By following these guidelines, we can ensure our web pages are accessible, SEO-friendly, and maintain a logical structure. This standardization will facilitate effective and efficient collaboration between our design and development teams, improving project outcomes.
 
 
 <br>
 
 ## What's Next
 
-I am currently working on developing a text style sheet frame for Figma. This frame will allow designers to add their text styles, including sizes, spacings, and other attributes. Once completed, developers will be able to export the entire frame to Webflow, enabling them to import all the text styles at once. This initiative aims to streamline our design-to-development workflow further and ensure consistency across all projects. Stay tuned for updates on this exciting development!
+I am currently working on developing a text-style sheet frame for Figma. This frame will allow designers to add their text styles, including sizes, spacings, and other attributes. Once completed, developers can export the entire frame to Webflow, enabling them to import all the text styles at once. This initiative aims to streamline our design-to-development workflow further and ensure consistency across all projects. Stay tuned for updates on this exciting development!
 
 ---
 <br>
